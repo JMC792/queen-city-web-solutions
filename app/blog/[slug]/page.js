@@ -26,8 +26,15 @@ export default function Page({params}){
                 heroSubtitle={en.blog.post.hero.subtitle}
             />
             <Article 
-                blogData={blogPost}
-                image={about4}
+                slug={blogPost.slug}
+                type={blogPost.type}
+                name={blogPost.name}
+                sentence={blogPost.sentence}
+                date={blogPost.date}
+                author={blogPost.author}
+                title={blogPost.title}
+                content={blogPost.content}
+                image={blogPost.image}
             />
         </Fragment>
     )
