@@ -105,7 +105,7 @@ function Navbar() {
                             </div>
 
                             {/* Language */}
-                            <div className="hidden lg:flex">
+                            {/* <div className="hidden lg:flex">
                                 <div className="text-[16px] font-medium hover:text-yellow-600 transition-colors delay-100">
                                     <Link href="/" locale={language.navbar.locale.spanish.code} scroll={false}>
                                         <div className="capitalize">
@@ -113,7 +113,7 @@ function Navbar() {
                                         </div>
                                     </Link>
                                 </div>
-                            </div>
+                            </div> */}
 
                             {/* Contact Us */}
                             <div className="hidden lg:grid">
