@@ -1,65 +1,57 @@
 {
     "blog1":{
-        "slug": "post-1",
+        "slug": "static-generated-sites-vs-wordpress",
         "type": "lifestyle",
         "name": "Understanding the Difference: Static Generated Sites vs. WordPress",
         "sentence": "Post Sentence 1",
-        "date": "09/11/2001",
+        "date": "08/11/2023",
         "author": "Nicki Faircloth",
+        "image": "/images/blog/post01.jpg",
+        "alt":"computer screen with code on it",
+        "title": {
+            "title1": "Static Generated Sites vs. WordPress",
+            "title2": "Static Generated Sites vs. WordPress",
+            "title3": "Static Generated Sites vs. WordPress",
+            "title4": "Static Generated Sites vs. WordPress",
+            "title5": "Static Generated Sites vs. WordPress",
+            "title6": "Static Generated Sites vs. WordPress"
+        },
         "content": {
             "p1": "In the world of web development, creating a website can be achieved through various means. Two popular options are using static site generators and WordPress. Although they may seem similar at first glance, they have distinct differences that cater to different needs. Let's break down both options.",
-            "p2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
-            "p3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut laboreLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
-            "p4": "",
-            "p5": "",
-            "p6": ""
+            "p2": "Static generated sites, created through pre-rendered HTML files, are known for their outstanding speed and robust security. Unlike WordPress, which can face performance issues, static sites provide a seamless and responsive user experience. The lack of database queries or server-side processing ensures that static sites load quickly, setting them apart from slower WordPress alternatives.",
+            "p3": "One of the hallmarks of static generated sites is their hosting flexibility. They can be hosted on various platforms, including GitHub Pages, offering greater control and often lower costs. In contrast, WordPress may come with hidden expenses through plugins, themes, and hosting. Additionally, static sites support collaboration through version control systems like Git, a benefit that's less intuitive in WordPress.",
+            "p4": "While WordPress is often touted for its user-friendly interface, it's overshadowed by potential drawbacks like security risks, slower performance, and hidden costs. Its extensibility through plugins and themes might seem appealing but can lead to an inefficient and bloated site.",
+            "p5": "Certainly, static sites have some limitations, such as the implementation of dynamic features like user authentication. However, these constraints are often offset by the significant advantages in speed, security, hosting flexibility, and control that static generated sites offer.",
+            "p6": "In conclusion, when comparing static generated sites vs. WordPress, the choice often leans towards static sites. Whether you're a web developer, business owner, or someone looking to create an efficient, secure, and flexible website, static generated sites provide clear advantages. Embracing the modern best practices and forward-thinking approach of static sites can lead to a more streamlined and resilient web presence, setting you on the path to success in the digital landscape."
         }
     },
     "blog2":{
-        "slug": "post-2",
-        "type": "Post Type 2",
-        "name": "Post Tile 2 ",
-        "sentence": "Post Sentence 2",
-        "date": "09/11/2001",
+        "slug": "google-business-profile",
+        "type": "Tech",
+        "name": "Standing Out in Search: Gaining an Edge with a Strong Google Business Profile",
+        "sentence": "Post Sentence 1",
+        "date": "08/02/2023",
         "author": "Nicki Faircloth",
+        "image": "/images/blog/post01.jpg",
+        "alt":"computer screen with code on it",
+        "title": {
+            "title1": "Static Generated Sites vs. WordPress",
+            "title2": "Static Generated Sites vs. WordPress",
+            "title3": "Static Generated Sites vs. WordPress",
+            "title4": "Static Generated Sites vs. WordPress",
+            "title5": "Static Generated Sites vs. WordPress",
+            "title6": "Static Generated Sites vs. WordPress"
+        },
         "content": {
-            "p1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-            "p2": "",
-            "p3": "",
-            "p4": "",
-            "p5": "",
-            "p6": ""
-        }
-    },
-    "blog3":{
-        "slug": "post-3",
-        "type": "lifestyle",
-        "name": "Post 3",
-        "sentence": "Post Sentence 3",
-        "date": "09/11/2001",
-        "author": "Nicki Faircloth",
-        "content": {
-            "p1": "",
-            "p2": "",
-            "p3": "",
-            "p4": "",
-            "p5": "",
-            "p6": ""
-        }
-    },
-    "blog4":{
-        "slug": "post-4",
-        "type": "lifestyle",
-        "name": "Post 4",
-        "sentence": "Post Sentence 4",
-        "date": "09/11/2001",
-        "content": {
-            "p1": "",
-            "p2": "",
-            "p3": "",
-            "p4": "",
-            "p5": "",
-            "p6": ""
+            "p1": "In the vast landscape of online business, making your mark and standing out from the competition is essential for success. One powerful tool that often goes overlooked in this quest is a well-crafted Google Business Profile. In this blog post, we'll delve into how a strong Google Business Profile can give you a significant competitive advantage and help your business shine in search results.",
+            "p2": "In a world where consumers turn to search engines for everything from finding a local coffee shop to researching products, the competition for attention is fierce. A Google Business Profile can be your secret weapon in this battle, allowing you to capture the attention of potential customers in a way that sets you apart.",
+            "p3": "A basic Google Business Profile might include your business name, address, and phone number. However, to truly stand out, you need to go beyond the basics. Add high-quality photos that showcase your products, services, and the unique aspects of your business. Craft a compelling business description that resonates with your target audience. Highlight your business attributes, such as Wi-Fi availability or outdoor seating, that can influence customer decisions.",
+            "p4": "In the digital age, online reviews hold immense power. Positive reviews can bolster your reputation and draw customers in, while negative reviews can have the opposite effect. Actively engage with your customers by responding to reviews, whether they're positive or negative. Demonstrating that you value customer feedback and are willing to address concerns can leave a lasting positive impression.",
+            "p5": "A well-optimized Google Business Profile can work wonders for your local SEO. When potential customers search for businesses similar to yours in your area, a strong profile can propel your business to the top of the search results. This level of visibility is invaluable in driving organic traffic and attracting local customers who are actively seeking what you offer.",
+            "p6": "Integrating your Google Business Profile with other online channels, such as your website and social media profiles, creates a consistent and cohesive online presence. This consistency builds trust and familiarity among your audience, making it easier for them to choose your business over competitors.",
+            "p7": "With mobile search on the rise, a Google Business Profile ensures that your business is discoverable to users who are on the go. Whether someone is searching for a nearby restaurant or a service provider, a well-maintained profile makes it simple for users to find essential information quickly and easily.",
+            "p8": "Think of your Google Business Profile as your business's X-factor. It's the element that can set you apart from competitors who haven't put the same level of effort into their online presence. A strong profile can make a significant difference in a customer's decision-making process, ultimately leading them to choose your business over others.",
+            "p9": "In the world of online business, every advantage matters. A well-crafted Google Business Profile isn't just a listing; it's an opportunity to create a lasting impression, establish credibility, and outshine your competitors. By going beyond the basics, engaging with customers, and optimizing for local search, you can harness the power of this tool to truly stand out in search results and gain the competitive edge your business deserves."
         }
     }
 }
